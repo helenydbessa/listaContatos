@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Criar Contato</string>
+    <string name="phone">phone</string>
+    <string name="e_mail_opcional">E-mail (opcional)</string>
+    <string name="inserir">inserir</string>
+    <string name="nome">nome</string>
+</resources>
